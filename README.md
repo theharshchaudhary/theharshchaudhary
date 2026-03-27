@@ -70,15 +70,4 @@ AWS
 
 ---
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theharshchaudhary&show_icons=true&theme=default" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theharshchaudhary" />
-</p>
-
----
-
 <p align="center"><b>Focused on building real-world projects and continuously improving as a developer.</b></p>
