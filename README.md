@@ -70,4 +70,8 @@ AWS
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=theharshchaudhary)](https://git.io/streak-stats)
+
+---
+
 <p align="center"><b>Focused on building real-world projects and continuously improving as a developer.</b></p>
